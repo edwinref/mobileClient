@@ -34,6 +34,6 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 3. Configurez votre IP dans le fichier pour recever les donnes d"apres backend
 4. Ranner le projet
 # Auteur
-Ce projet a été réalisé par REFKI ELHADI.
+Ce projet a été réalisé par REFKI ELHADI-KADIRI YAHYA-  MAKAOUI REDA.
 
 
